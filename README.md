@@ -1,4 +1,4 @@
-# EBS mounting - ebsmount.sh
+# EBS Mounting - ebsmount.sh
 
 USE-CASE:
 This script can be used for mount pre created aws ebs volume to a aws ec2-instance when a instance respawing in a termination.
