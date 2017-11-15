@@ -1,7 +1,7 @@
 #!/bin/bash
 
-ServiceID=AESP
-Environment=STG
+ServiceID=xxxx
+Environment=xxxx
 
 #getting instance ids
 
