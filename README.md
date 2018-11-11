@@ -22,4 +22,4 @@ EXAMPLE:
 We can use the script for incidents like, you have different aws deployments with different environments and you are not already attach tags to ebs volumes which are attached to the instances. Using filter values based on your requirement, this script can attach tags which are already attached to the instances. Here we have used Service ID and Environment for filtering purposes.
 
 REQUIREMENTS:
-AWS-CLI should be installed and configured on script running instance.
+AWS-CLI should be installed and configured  (with aws keys/IAM Role) on script running instance.
